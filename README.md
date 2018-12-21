@@ -6,7 +6,7 @@
 
 ## Instructions
 
-In the following lab, we want to model our Scuber system in such a way that we can see all of the passengers related to a driver.  A driver becomes related to a passenger when he takes a single trip.  Only one passenger is associated with a trip -- the passenger who books, and pays for the trip on their phone.
+In the following lab, we want to model our Scuber system in such a way that we can see all of the passengers related to a driver.  A driver becomes related to a passenger when he or she takes a single trip.  Only one passenger is associated with a trip -- the passenger who books, and pays for the trip on their phone.
 
 Each class should be defined in such a way that it adds an incrementing id to each individual instance of the respective class.  An object should also be added to the store upon being initialized.
 
